@@ -1,0 +1,14 @@
+.website__url-heading {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #AAAAAA;
+}
+
+/* @media screen and (min-width: 1024px) {
+  .website__url-heading {
+    line-height: 1.7;
+  }
+} */

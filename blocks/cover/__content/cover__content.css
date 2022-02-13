@@ -1,0 +1,26 @@
+.cover__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 33px 16px;
+  position: relative;
+  z-index: 2;
+}
+
+@media screen and (min-width: 768px) {
+  .cover__content {
+    padding: 115px 104px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover__content {
+    padding: 195px 232px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__content {
+    padding: 245px 312px;
+  }
+}
