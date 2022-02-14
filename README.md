@@ -1,23 +1,17 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+[![HTML](https://img.shields.io/badge/HTML-5-brightgreen)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/CSS-3-brightgreen)](https://www.w3.org/Style/CSS/)
+[![Flexbox](https://img.shields.io/badge/Flexbox-1-brightgreen)](https://www.w3.org/TR/css-flexbox-1/)
+[![Grid Layout](https://img.shields.io/badge/Grid%20Layout-1-brightgreen)](https://www.w3.org/TR/css-grid-1/)
+## Что за проект
+Проект знакомит студентов с адаптивной версткой и рассказывает о путешествиях по самым красивым местам России.
 
-**Интро**
+## Технологии
+[HTML](https://www.w3.org/html/)
+[CSS](https://www.w3.org/Style/CSS/)
+[Flexbox](https://www.w3.org/TR/css-flexbox-1/)
+[Grid Layout](https://www.w3.org/TR/css-grid-1/)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+## Опубликованная версия
+[Вот она](https://katieperca.github.io/russian-travel/)

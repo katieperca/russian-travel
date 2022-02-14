@@ -14,13 +14,6 @@
   }
 }
 
-/* @media screen and (min-width: 768px) {
-  .photo__list {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 16px 16px;
-  }
-} */
-
 @media screen and (min-width: 1024px) {
   .photo__list {
     grid-template-columns: repeat(3, 1fr);

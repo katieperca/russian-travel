@@ -7,8 +7,7 @@
 @media screen and (min-width: 768px) {
   .place {
     display: grid;
-    /* grid-template-columns: 340px 352px; */
-    grid-template-columns: minmax(340px, 439px) minmax(352px, 456px);
+    grid-template-columns: minmax(340px, 439px) minmax(352px, 455px);
     column-gap: 28px;
     row-gap: 48px;
     margin-top: 73px;

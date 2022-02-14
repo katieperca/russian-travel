@@ -5,6 +5,7 @@
   font-size: 40px;
   line-height: 1.1;
   text-align: center;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (min-width: 425px) {
@@ -21,8 +22,3 @@
     line-height: 1.04;
   }
 }
-
-/* @media screen and (min-width: 1024px) {
-  .lead__title {
-  }
-} */
